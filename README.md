@@ -15,7 +15,7 @@ npm install threatcrowd --save
 ## Global
 Assuming you have the rights to do so, run this command:
 ```
-npm install -g node-virustotal
+npm install -g threatcrowd
 ``` 
 # Background Information
 
