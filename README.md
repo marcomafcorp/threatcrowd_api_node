@@ -17,9 +17,6 @@ Assuming you have the rights to do so, run this command:
 ```
 npm install -g threatcrowd
 ``` 
-# Background Information
-
-I built this for myself to query threatcrowd and I figured I would publish this as an npm package because other people would have to write these simple lines code.
 
 # Usage
 
@@ -30,6 +27,10 @@ threatcrowd('domain', 'aoldaily.com');
 threatcrowd('antivirus', 'plugx');
 threatcrowd('file', 'ec8c89aa5e521572c74e2dd02a4daf78');
 ```
+
+# Background Information
+
+I built this for myself to query threatcrowd's API and I figured I would publish this as an npm package because other people wouldn't have to write these simple lines code.
 
 
 # Source
